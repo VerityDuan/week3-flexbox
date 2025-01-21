@@ -17,11 +17,11 @@ header img{
 }
 
    
-   main{
-       display:flex;
-       gap: 1rem;
-   }
-   
+main{
+    display:flex;
+    gap: 1rem;
+}
+
    section{
     flex:  1;
     border: 1px solid green 
